@@ -6,7 +6,7 @@ from torch.autograd import Variable
 from torch.utils.checkpoint import checkpoint
 from torchsummary import summary
 
-Factor = 0.125
+Factor = 0.25
 
 
 class Vgg(nn.Module):
