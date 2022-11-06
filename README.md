@@ -7,7 +7,7 @@ This is the implementation for  SANet(Skeleton-Aware Neural Sign Language Transl
 - German sign language dataset: the RWTH-PHOENIX-Weather 2014T [2] which contains 8257 weather forecast samples from 9 signers. (https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)
 
 
-Code will be available soon.
+The most important part of SANet has been already made public. As for the whole project, it will not be released due to IP issues. Thank you for your understanding.
 
 
 ## Reference
